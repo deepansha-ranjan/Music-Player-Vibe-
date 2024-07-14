@@ -12,7 +12,7 @@ Download the currently playing song
 Responsive design
 Scroll through songs horizontally
 
-<h3>Getting Started</h3>
+<h2>Getting Started</h2>
 <h3>Prerequisites</h3>
 Ensure you have the following tools installed:
 
