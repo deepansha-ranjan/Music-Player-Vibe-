@@ -19,11 +19,14 @@ Ensure you have the following tools installed:
 A modern web browser (Google Chrome, Firefox, Safari, etc.)
 A code editor (Visual Studio Code, Sublime Text, etc.)
 
-Installation:
+<h3>Installation:</h3>
 1)Clone the repository or download the ZIP file:
 git clone https://github.com/deepansha-ranjan/Music-Player-Vibe-.git
+<br>
+
 2)Navigate to the project directory:
 cd music-player
+<br>
 
 3)Open index.html in your web browser to view the music player.
 
