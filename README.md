@@ -2,17 +2,16 @@
 A simple and elegant music player built using HTML, CSS, and JavaScript. This music player allows users to play, pause, and control the playback of their favorite songs with a user-friendly interface.
 
 <h3>Features</h3>
-1)Play/Pause songs
-2)Display current song's title and artist
-3)Seek through the song
-4)Adjust volume
-5)Shuffle songs
-6)Skip to next or previous song
-7)Download the currently playing song
-8)Responsive design
-9)Scroll through songs horizontally
+1)Play/Pause songs<br>
+2)Display current song's title and artist<br>
+3)Seek through the song<br>
+4)Adjust volume<br>
+5)Shuffle songs<br>
+6)Skip to next or previous song<br>
+7)Download the currently playing song<br>
+8)Responsive design<br>
+9)Scroll through songs horizontally<br>
 
-![alt text](<music website/markdown/Screenshot (226).png>)
 
 <h2>Getting Started</h2>
 <h3>Prerequisites</h3>
